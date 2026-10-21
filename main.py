@@ -1,4 +1,4 @@
-```python
+
 # 어제의 박스오피스 — KOBIS 일별 박스오피스 API
 # 초보자도 이해하기 쉽도록 주요 단계마다 한국어 주석을 달았습니다.
 
@@ -264,4 +264,3 @@ st.plotly_chart(chart, use_container_width=True)
 st.caption(
     "자료 출처: 영화관입장권통합전산망(KOBIS) 일별 박스오피스 API"
 )
-```
